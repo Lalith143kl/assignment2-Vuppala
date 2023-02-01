@@ -1,7 +1,7 @@
 # Lalith Vuppala
 I am from India,hyderabad. I'm a guitarist and love to sing,photography. I have completed my bachelor degree in the stream of Electronic & Communication Engineering.
 
-![link](Snapchat-669521843.jpg)
+[link](Snapchat-669521843.jpg)
 
 *******
 # Country Table
@@ -58,5 +58,6 @@ $.preloadImages("hoverimage1.jpg","hoverimage2.jpg");
 
 ```
 [quick link to code snippt](https://css-tricks.com/snippets/jquery/image-preloader/)
+
 
 
